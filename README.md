@@ -1,4 +1,5 @@
 # AskCreds-CS
+[https://github.com/outflanknl/C2-Tool-Collection/tree/main/BOF/Askcreds](https://github.com/outflanknl/C2-Tool-Collection/tree/main/BOF/Askcreds)
 
 A BOF tool that can be used to collect passwords using `CredUIPromptForWindowsCredentialsName`.
 
